@@ -1,6 +1,6 @@
 ---
-title: "cobbler Issue"
-date: 2017-08-04
+title: "Nginx R13 REST API"
+date: 2017-09-03
 tags: []
 categories:
   - Linux
